@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+
+div{
+    margin: 0em;
+    padding: 1em;
+
+    border: 0.2em solid black;
+    border-radius: 1em;
+}
+
+.postedBy{
+    margin-top: 5em;
+}
+
+.comment{
+    margin-top: 1em;
+}
